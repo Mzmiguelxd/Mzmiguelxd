@@ -6,7 +6,7 @@
 
 <h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/miguel-angel-portal-lopez-b2a406372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/miguel_miguelito_lopez/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/Vladimir7u7/?locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://steamcommunity.com/profiles/76561198354907851/" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
